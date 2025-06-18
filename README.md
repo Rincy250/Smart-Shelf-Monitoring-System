@@ -18,3 +18,12 @@ This project consists of three main components:
 - Sales tracking and analytics  
 - Real-time alerts for potential thefts and misplacements  
 - Interactive dashboard for monitoring shelf status  
+
+## Tech Stack
+
+### FrontEnd
+
+- React.js
+- Tailwind CSS
+- Axios for API communication
+- React Router for navigation
