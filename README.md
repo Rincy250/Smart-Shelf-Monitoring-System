@@ -55,7 +55,8 @@ This project consists of three main components:
 
  ```bash
   cd backend
-pip install -r requirements.txt
-python app.py
+  pip install -r requirements.txt
+  python app.py
 
-   
+
+
