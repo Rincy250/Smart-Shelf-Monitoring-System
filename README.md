@@ -67,17 +67,35 @@ This project consists of three main components:
 
 ## API Endpoints
 
-- /test - Test connection
-- /record_sale - Record a sale transaction
-- /get_sales_data - Retrieve sales history
-- /get_sensor_data - Get real-time sensor readings
-- /get_potential_thefts - Get theft detection alerts
-- /get_alerts - Get system alerts
-- /get_latest_image - Get latest camera feed
-- /check_misplacement - Check for product misplacement
-- /get_shelf_config - Get shelf configuration
-- /upload_image - Upload new image for analysis
-- /upload_data - Upload sensor data
+- `/test` - Test connection
+- `/record_sale` - Record a sale transaction
+- `/get_sales_data` - Retrieve sales history
+- `/get_sensor_data` - Get real-time sensor readings
+- `/get_potential_thefts` - Get theft detection alerts
+- `/get_alerts` - Get system alerts
+- `/get_latest_image` - Get latest camera feed
+- `/check_misplacement` - Check for product misplacement
+- `/get_shelf_config` - Get shelf configuration
+- `/upload_image` - Upload new image for analysis
+- `/upload_data` - Upload sensor data
+
+## Environmental Variables
+
+Create a .env file in the backend directory with:
+
+```bash
+GOOGLE_API_KEY=your_api_key_here
+```
+
+## Contributing
+
+1.Fork the repository
+2.Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3.Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4.Push to the branch (`git push origin feature/AmazingFeature`)
+5.Open a Pull Request
+
+
 
 
 
