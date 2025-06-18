@@ -34,3 +34,18 @@ This project consists of three main components:
 - Google Gemini AI for image analysis
 - CORS enabled for cross-origin requests
 - RESTful API endpoints
+
+### HardWare
+
+- ESP32-CAM for computer vision
+- Ultrasonic sensors for distance measurement
+- Force sensors for weight detection
+- Arduinofor sensor data collection
+
+  ## Installation
+
+  ### FrontEnd Setup
+
+  cd frontend
+  npm install
+  npm start
