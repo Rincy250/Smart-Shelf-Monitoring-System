@@ -9,3 +9,12 @@ This project consists of three main components:
 2.Backend: Flask server handling data processing and AI integration
 
 3.Hardware: Arduino-based sensor system with ESP32-CAM for computer vision
+
+## Features
+
+- Real-time inventory tracking using ultrasonic and force sensors
+- Computer vision-based product placement monitoring  
+- AI-powered theft detection and alert system  
+- Sales tracking and analytics  
+- Real-time alerts for potential thefts and misplacements  
+- Interactive dashboard for monitoring shelf status  
