@@ -46,8 +46,7 @@ This project consists of three main components:
 
   ### FrontEnd Setup
 
-  cd frontend
-  
-  npm install
-  
-  npm start
+  ```bash
+cd frontend
+npm install
+npm start
