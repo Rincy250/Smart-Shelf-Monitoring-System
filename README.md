@@ -27,3 +27,10 @@ This project consists of three main components:
 - Tailwind CSS
 - Axios for API communication
 - React Router for navigation
+
+### BackEnd
+
+- Flask
+- Google Gemini AI for image analysis
+- CORS enabled for cross-origin requests
+- RESTful API endpoints
