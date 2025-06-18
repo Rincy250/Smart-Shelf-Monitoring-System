@@ -53,10 +53,31 @@ This project consists of three main components:
 
 ### BackEnd SetUp
 
- ```bash
+  ```bash
   cd backend
   pip install -r requirements.txt
   python app.py
+
+```
+### HardWare SetUP
+
+1.Upload the Arduino code to your ESP32-CAM
+2.Connect sensors according to the pin configuration
+3.Ensure proper power supply and network connectivity
+
+## API Endpoints
+
+- /test - Test connection
+- /record_sale - Record a sale transaction
+- /get_sales_data - Retrieve sales history
+- /get_sensor_data - Get real-time sensor readings
+- /get_potential_thefts - Get theft detection alerts
+- /get_alerts - Get system alerts
+- /get_latest_image - Get latest camera feed
+- /check_misplacement - Check for product misplacement
+- /get_shelf_config - Get shelf configuration
+- /upload_image - Upload new image for analysis
+- /upload_data - Upload sensor data
 
 
 
