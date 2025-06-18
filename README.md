@@ -47,6 +47,15 @@ This project consists of three main components:
   ### FrontEnd Setup
 
   ```bash
-cd frontend
-npm install
-npm start
+   cd frontend
+   npm install
+   npm start
+
+### BackEnd SetUp
+
+ ```bash
+  cd backend
+pip install -r requirements.txt
+python app.py
+
+   
